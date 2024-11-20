@@ -1,4 +1,4 @@
-# Fake News Detection 📰🔍
+# Detecting Fake News 📰🔍
 This repository contains a Python-based solution to detect fake news using a dataset from Kaggle. Leveraging natural language processing (NLP) techniques and machine learning algorithms, the project identifies fake news articles with high accuracy.
 # Project Overview
 Fake news has become a widespread issue in the digital age, impacting public opinion and decision-making. This project aims to classify news articles as real or fake by training a predictive model on labeled datasets. The pipeline includes data preprocessing, feature extraction, model training, and evaluation.
