@@ -19,7 +19,7 @@ Dataset: Use Kaggle to download Fake News Dataset
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/fake-news-detection.git
+git clone [https://github.com/your-username/fake-news-detection.git](https://github.com/priyankaa-roy/Fake-News-Detection-Using-Python)
 cd fake-news-detection
 
 2. Set up a virtual environment:
